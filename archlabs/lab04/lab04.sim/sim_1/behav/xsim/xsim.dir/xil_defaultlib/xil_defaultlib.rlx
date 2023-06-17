@@ -1,0 +1,11 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/SJTU/archlabs/lab04/lab04.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/SJTU/archlabs/lab04/lab04.srcs/sim_1/new/Registers_tb.v,1683297483,verilog,,,,Registers_tb,,,,,,,,
+D:/SJTU/archlabs/lab04/lab04.srcs/sim_1/new/dataMemory_tb.v,1683301142,verilog,,,,dataMemory_tb,,,,,,,,
+D:/SJTU/archlabs/lab04/lab04.srcs/sim_1/new/signext_tb.v,1683348766,verilog,,,,signext_tb,,,,,,,,
+D:/SJTU/archlabs/lab04/lab04.srcs/sources_1/new/Registers.v,1683347558,verilog,,D:/SJTU/archlabs/lab04/lab04.srcs/sim_1/new/Registers_tb.v,,Registers,,,,,,,,
+D:/SJTU/archlabs/lab04/lab04.srcs/sources_1/new/dataMemory.v,1683347583,verilog,,D:/SJTU/archlabs/lab04/lab04.srcs/sim_1/new/dataMemory_tb.v,,dataMemory,,,,,,,,
+D:/SJTU/archlabs/lab04/lab04.srcs/sources_1/new/signext.v,1683677793,verilog,,D:/SJTU/archlabs/lab04/lab04.srcs/sim_1/new/signext_tb.v,,signext,,,,,,,,

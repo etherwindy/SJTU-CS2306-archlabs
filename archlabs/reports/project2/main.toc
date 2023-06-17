@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}实验目的}{1}{section.1}%
+\contentsline {section}{\numberline {2}原理分析}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Vivado 工程的基本组成}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}4-bit adder 原理}{1}{subsection.2.2}%
+\contentsline {section}{\numberline {3}功能实现}{1}{section.3}%
+\contentsline {section}{\numberline {4}结果验证}{2}{section.4}%
+\contentsline {subsection}{\numberline {4.1}测试用激励文件}{2}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}仿真测试}{3}{subsection.4.2}%
+\contentsline {section}{\numberline {5}工程实现}{4}{section.5}%
+\contentsline {subsection}{\numberline {5.1}顶层源文件}{4}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}管脚约束}{5}{subsection.5.2}%
+\contentsline {section}{\numberline {6}总结与反思}{6}{section.6}%
